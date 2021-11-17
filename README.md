@@ -1,1 +1,1 @@
-# Computer-Vision
+# Bilgisayarlı Görü - Görüntü İşleme - Derin öğrenme
